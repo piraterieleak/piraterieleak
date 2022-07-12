@@ -1,78 +1,97 @@
-estronzanicole@gmail.com:luis2009 | isVerified = True | Country = US | Sub = [Disney Plus Monthly - Amazon - 2021, DISNEY_PLUS, Disney Plus Monthly - US - PS4, DISNEY_PLUS]
-charlieandmelissa@gmail.com:mine9632 | isVerified = False | Country = US | Sub = [Disney Plus Monthly - US - Web, DISNEY_PLUS, Disney Plus Monthly - US - Web, DISNEY_PLUS, Disney Plus Monthly, DISNEY_PLUS]
-rozier.johnathan@gmail.com:Rozier8998 | isVerified = True | Country = US | Sub = [Disney Plus Monthly - US - Web, DISNEY_PLUS]
-wooler28@gmail.com:naruto28 | isVerified = True | Country = US | Sub = [Disney+, Hulu No Ads, and ESPN+, DISNEY_PLUS, DISNEY_HULU_NO_ADS]
-jorginho.r6@gmail.com:omcdte1994 | isVerified = False | Country = BR | Sub = [Disney Plus Monthly - BR - Web, DISNEY_PLUS]
-ethan_a.porter@yahoo.com:Lamech55 | isVerified = True | Country = US | Sub = [Disney Plus Yearly, DISNEY_PLUS, Disney Plus - US - Verizon - 12 Month Promo, DISNEY_PLUS, Disney+ Premier Access - Raya - NA/ANZ/EMEA - Google, DISNEY_6DYENGBX3IYK, Disney Plus Non-Recurring - US - Verizon, DISNEY_PLUS]
-oscar.trias@yahoo.com.mx:Timo841123 | isVerified = False | Country = MX | Sub = [Disney Plus Monthly - MX - Web, DISNEY_PLUS, Disney Plus Monthly - MX, DISNEY_PLUS]
-nelly@iesmail.net:Nayson97 | isVerified = True | Country = US | Sub = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS]
-kristoffer.tunlid@gmail.com:jevel123 | isVerified = True | Country = NO | Sub = [Disney Plus Monthly - NO - Web, DISNEY_PLUS, Disney Plus Monthly - NO - Web - 2021, DISNEY_PLUS]
-martyc2242@gmail.com:thomas12 | isVerified = False | Country = US | Sub = [Disney Plus Monthly - US -  Tizen, DISNEY_PLUS, Disney Plus Premier Access - Black Widow - US - Web, DISNEY_3VFTAP90RWZC]
-travis.fowler89@gmail.com:server09 | isVerified = False | Country = US | Sub = [Disney Plus Non-Recurring - US - Verizon, DISNEY_PLUS, Disney Plus - US - Verizon - Standalone, DISNEY_PLUS, Disney+, Hulu, and ESPN+ - Hulu Sold Live w/ No Ads, DISNEY_PLUS, DISNEY_HULU_NO_ADS, Disney+ Premier Access - Raya - US - Web, DISNEY_6DYENGBX3IYK, Disney+ Premier Access - Mulan - Google, DISNEY_2JLGPK4K0ILR]
-sacamanta1505@gmail.com:xhzvskc47 | isVerified = True | Country = MX | Sub = [Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS, Combo+ - MX - MERCADOLIBRE - Monthly - L6 paid, DISNEY_PLUS, Combo+ - MX - MERCADOLIBRE - L6 Bundle Upgrade March 2022, DISNEY_PLUS]
-barnettbenjamin@hotmail.com:LTBulldog32 | isVerified = True | Country = US | Sub = [Disney Plus Monthly, DISNEY_PLUS, Disney Plus Monthly with 7 day Free Trial, DISNEY_PLUS, Disney+ Premier Access - Mulan - US - Roku, DISNEY_2JLGPK4K0ILR, Disney Plus Monthly, DISNEY_PLUS]
-kaydencecortez205@gmail.com:Track120903 | isVerified = True | Country = US | Sub = [Disney Plus Monthly - Apple - 2021, DISNEY_PLUS]
-hendrickbrandon15@gmail.com:Bh061198 | isVerified = True | Country = US | Sub = [Disney Plus Monthly - US - Web, DISNEY_PLUS, Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS, Disney Plus Monthly, DISNEY_PLUS]
-astecki2@hotmail.com:Cameron00 | isVerified = True | Country = AU | Sub = [Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS]
-drscottrobinson@gmail.com:darksun1 | isVerified = True | Country = US | Sub = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS]
-bethanycottenden@hotmail.com:babaloo8989 | isVerified = True | Country = GB | Sub = [Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS, Disney Plus Monthly - UK - Web, DISNEY_PLUS, Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS]
-jj218@ymail.com:GiNgEr1214 | isVerified = False | Country = US | Sub = [Disney Plus Monthly - US - PS4, DISNEY_PLUS]
-tapentp@gmail.com:1k2o3r4n | isVerified = True | Country = US | Sub = [Disney Plus Monthly, DISNEY_PLUS, Disney Plus Monthly with 7 day Free Trial, DISNEY_PLUS]
-jwink21@gmail.com:100Tophonors | isVerified = True | Country = US | Sub = [Disney Plus Monthly - US - XBox, DISNEY_PLUS]
-bestiesforev@hotmail.com:Winifr3d | isVerified = True | Country = AU | Sub = [Disney Plus Monthly - AU - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - AUS - Web, DISNEY_PLUS]
-beholdason74@hotmail.com:home2utah | isVerified = False | Country = US | Sub = [Disney Plus - US - Verizon - Bundle Promo, DISNEY_PLUS, DISNEY_HULU_ADS, Disney Plus Yearly Pre-Sales - US - Web, DISNEY_PLUS, Disney+ Premier Access - Mulan - US - Apple, DISNEY_2JLGPK4K0ILR]
-bhearsum-@hotmail.com:Bambi11221 | isVerified = True | Country = CA | Sub = [Disney Plus Monthly - CA - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - CAN - Web, DISNEY_PLUS]
-campbellsears@gmail.com:Cheesehead1 | isVerified = False | Country = US | Sub = [Disney Plus Monthly With 7 Day FT, DISNEY_PLUS]
-jordan.friesenvancouver@gmail.com:Kitfisto2 | isVerified = True | Country = CA | Sub = [Disney Plus Monthly - Google - 2021, DISNEY_PLUS, Disney Plus Monthly - Amazon - 2021, DISNEY_PLUS, Disney Plus Monthly With 7 Day FT, DISNEY_PLUS]
-samantha_rowney1234@hotmail.com:rexandcoco1993 | isVerified = True | Country = AU | Sub = [Disney Plus Monthly - AU - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - AUS - Web, DISNEY_PLUS]
-beckym2502@hotmail.com:Jolie2502 | isVerified = True | Country = GB | Sub = [Disney Plus Monthly - UK - Web, DISNEY_PLUS, Disney Plus - GB - O2 - Bundle 6 Month, DISNEY_PLUS, Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS, Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS, Disney Plus Non-Recurring - GB - O2 - Bundle, DISNEY_PLUS, Disney Plus Monthly - UK - Web, DISNEY_PLUS]
-alysashane@yahoo.com:Alysashane12 | isVerified = True | Country = US | Sub = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS, Disney Plus Monthly - US - Web, DISNEY_PLUS, Disney Plus Monthly - US - Web, DISNEY_PLUS]
-babyolurpes@hotmail.com:Babyolurpes13 | isVerified = True | Country = SG | Sub = [Disney Plus Monthly - SG - Web - 2021, DISNEY_PLUS]
-sarahbry79@gmail.com:bailey66 | isVerified = True | Country = US | Sub = [Disney Plus Monthly, DISNEY_PLUS]
-micnice45@gmail.com:mikeski01 | isVerified = True | Country = US | Sub = [Disney Plus Monthly - US - Web, DISNEY_PLUS]
-charlotte.bali@hotmail.com:iba4knbg | isVerified = True | Country = BE | Sub = [Disney Plus Yearly - BE - Web, DISNEY_PLUS]
-galallc@yahoo.com:Luca2011 | isVerified = False | Country = US | Sub = [Disney Plus Monthly - Apple - 2021, DISNEY_PLUS]
-jonathan.rogers751@gmail.com:DragonSlayer1 | isVerified = True | Country = CA | Sub = [Disney Plus Monthly, DISNEY_PLUS]
-adrianoimper2011@gmail.com:familiasouza123 | isVerified = True | Country = BR | Sub = [Combo+ - BR - MERCADOLIBRE - Monthly - L6 paid, DISNEY_PLUS, Disney Plus Monthly - BR - Web, DISNEY_PLUS]
-mylenaruon1@gmail.com:mylenaruon1 | isVerified = True | Country = BR | Sub = [Disney Plus Monthly - BR - Web, DISNEY_PLUS, Disney Plus Monthly - BR - Web, DISNEY_PLUS]
-swann.larry@gmail.com:Creative1 | isVerified = True | Country = US | Sub = [Disney+ Premier Access - Raya - NA/ANZ/EMEA - Google, DISNEY_6DYENGBX3IYK, Disney Plus Yearly Pre-Sales - US - Web, DISNEY_PLUS]
-pylenoah@gmail.com:friedclutch12 | isVerified = False | Country = US | Sub = [Disney Plus Monthly - US - Web, DISNEY_PLUS, Disney Plus Monthly - US -  Tizen, DISNEY_PLUS]
-chnookipie007@hotmail.com:kitty007 | isVerified = False | Country = GB | Sub = [Disney Plus Monthly - UK - Web - 2021, DISNEY_PLUS]
-darrencopland@hotmail.com:Darren74 | isVerified = False | Country = AU | Sub = [Disney Plus Monthly - Apple - 2021, DISNEY_PLUS, Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS]
-benwall_@hotmail.com:suzanna1 | isVerified = True | Country = US | Sub = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS, Disney+, Hulu No Ads, and ESPN+, DISNEY_PLUS, DISNEY_HULU_NO_ADS]
-madison@bolayfarms.com:MB1988mb | isVerified = False | Country = US | Sub = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS, Disney Plus Yearly with 7 Day Free Trial, DISNEY_PLUS]
-franco_congedo@hotmail.com:dante5013 | isVerified = False | Country = AR | Sub = [Disney Plus Monthly - AR - Web, DISNEY_PLUS]
-arturohsh@gmail.com:Hernandez96 | isVerified = True | Country = CL | Sub = [Combo+ - CL - MERCADOLIBRE - Monthly - L6 paid, DISNEY_PLUS, Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS]
-diamondblushedm@gmail.com:rapture327 | isVerified = False | Country = US | Sub = [Disney Plus Yearly Pre-Sales - US - Web, DISNEY_PLUS]
-baratte@gmail.com:TbSEpe82 | isVerified = True | Country = FR | Sub = [Disney Plus Non-Recurring - FR - Canal Plus - Bundle, DISNEY_PLUS, Disney Plus Monthly - FR - Web, DISNEY_PLUS, Disney Plus Monthly - FR - Web, DISNEY_PLUS]
-xianhurley@gmail.com:BUkid01876 | isVerified = True | Country = US | Sub = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS, Disney Plus Yearly - Apple - 2021, DISNEY_PLUS]
-stevew1923@gmail.com:Reddog23 | isVerified = True | Country = US | Sub = [Disney Plus Monthly - US -  Tizen, DISNEY_PLUS, Disney Plus Monthly - US -  Tizen, DISNEY_PLUS]
-ebonie.mclennan@hotmail.com:ebonie101 | isVerified = False | Country = AU | Sub = [Disney Plus Monthly, DISNEY_PLUS, Disney Plus Monthly - Apple - 2021, DISNEY_PLUS, Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS]
-dpkmlg@hotmail.com:Cantona7 | isVerified = True | Country = AU | Sub = [Disney Plus Monthly - AU - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - AUS - PS4, DISNEY_PLUS]
-bryleecrowe@hotmail.com:Butterfly22 | isVerified = True | Country = AU | Sub = [Disney Plus Monthly - Apple - 2021, DISNEY_PLUS]
-bpstrode@hotmail.com:summer14 | isVerified = False | Country = US | Sub = [Disney Plus Monthly - Amazon - 2021, DISNEY_PLUS]
-carolmassey24@hotmail.com:Massey1234 | isVerified = False | Country = IE | Sub = [Disney Plus Monthly - IE - Web, DISNEY_PLUS, Disney Plus Monthly - IE - Web - 2021, DISNEY_PLUS]
-drochon2006@gmail.com:chanda06 | isVerified = True | Country = US | Sub = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS]
-danochef@hotmail.com:101ftw79 | isVerified = True | Country = AU | Sub = [Disney Plus Monthly - AUS - Web, DISNEY_PLUS, Disney Plus Monthly - AU - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - AUS - Web, DISNEY_PLUS]
-emsgirl3@hotmail.com:rescue24 | isVerified = False | Country = US | Sub = [Disney Plus Yearly - US -  Web, DISNEY_PLUS]
-cevallos.art@gmail.com:Campuzan0 | isVerified = True | Country = MX | Sub = [Combo+ - MX - MERCADOLIBRE - Monthly - L6 organic, DISNEY_PLUS, Disney+ Premier Access - Raya - MX - Web, DISNEY_4TZWJDDALRHK]
-dustinnelson442@gmail.com:AceGamer5230 | isVerified = True | Country = US | Sub = [Disney Plus Monthly - US - LG, DISNEY_PLUS, Disney Plus Yearly - US -  Web, DISNEY_PLUS]
-lukebartley3@gmail.com:bartley5 | isVerified = True | Country = AU | Sub = [Disney Plus Monthly - Google - 2021, DISNEY_PLUS]
-gema.cuevas@hotmail.com:Gemacuevas8 | isVerified = True | Country = MX | Sub = [Disney Plus Monthly - MX - Web, DISNEY_PLUS, Disney Plus Yearly - MX - Web, DISNEY_PLUS]
-brookeybeersmum@hotmail.com:brooke05 | isVerified = True | Country = NZ | Sub = [Disney Plus Monthly - Google - 2021, DISNEY_PLUS, Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS]
-dominiquebaertsch@hotmail.com:Quick123 | isVerified = True | Country = CH | Sub = [Disney Plus Monthly - CH - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - CH - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - CH - Web, DISNEY_PLUS, Disney Plus Monthly - CH - Web, DISNEY_PLUS, Disney Plus Monthly - CH - Web, DISNEY_PLUS, Disney Plus Monthly - CH - Web - 2021, DISNEY_PLUS]
-chi_182@hotmail.com:Cadillac61 | isVerified = True | Country = AU | Sub = [Disney Plus Yearly - AUS - Web, DISNEY_PLUS, Disney Plus Yearly - AU - Web - 2021, DISNEY_PLUS]
-magnusakerlund123@gmail.com:calltoarms1 | isVerified = True | Country = SE | Sub = [Disney Plus Monthly - SE - Web - 2021, DISNEY_PLUS]
-gavinchisholm@hotmail.com:chissy72 | isVerified = True | Country = AU | Sub = [Disney Plus Monthly - AU - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - AUS - Web, DISNEY_PLUS, Disney Plus Monthly - AUS - Web, DISNEY_PLUS, Disney Plus Monthly - AUS - LG, DISNEY_PLUS]
-jessterrell73@gmail.com:Bechtel1 | isVerified = True | Country = US | Sub = [Disney Plus Yearly with 7 Day FT, DISNEY_PLUS, Disney Plus Monthly - US - Web, DISNEY_PLUS, Disney+ Premier Access - Jungle Cruise - ROW - Amazon, DISNEY_73QMETY6DRAY]
-dzur13@hotmail.com:Gshock13 | isVerified = False | Country = US | Sub = [Disney Plus Monthly - US - Web, DISNEY_PLUS, Disney+ Premier Access - Mulan - Google, DISNEY_2JLGPK4K0ILR]
-chantal_plamondon@hotmail.com:the3kids | isVerified = True | Country = CA | Sub = [Disney Plus Yearly - CA - Web - 2021, DISNEY_PLUS, Disney Plus Yearly - CAN - Web, DISNEY_PLUS]
-thackerjeremy@gmail.com:july22011 | isVerified = False | Country = US | Sub = [Disney Plus Monthly - US - Web, DISNEY_PLUS]
-catch19er@hotmail.com:jordyn0627 | isVerified = True | Country = US | Sub = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS, Disney Plus - US - Verizon - Bundle Promo, DISNEY_PLUS, DISNEY_HULU_ADS]
-cazza.lynchy.92@hotmail.com:moo2810 | isVerified = True | Country = AU | Sub = [Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS, Disney Plus Monthly, DISNEY_PLUS]
-tavo_quimico@hotmail.com:camila120912 | isVerified = True | Country = EC | Sub = [Disney Plus Yearly - EC - Web, DISNEY_PLUS, Star Plus Combo Plus Monthly - EC - Web, DISNEY_PLUS]
-carmenmccauley@hotmail.com:abby2009 | isVerified = False | Country = US | Sub = [Disney Plus Monthly - US - Web, DISNEY_PLUS]
-millerjsmiller@gmail.com:Melman92 | isVerified = False | Country = US | Sub = [Disney Plus Non-Recurring - US - Verizon, DISNEY_PLUS, Disney Plus Monthly - US - Web, DISNEY_PLUS]
-atty_rlchaney@hotmail.com:Ledbetter10 | isVerified = True | Country = US | Sub = [Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS, Disney Plus Premier Access - Cruella - US - Web, DISNEY_2GJTZUO8I01C, Disney+, Hulu, and ESPN+, DISNEY_PLUS, DISNEY_HULU_ADS, Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS]
-fatgurl23@hotmail.com:ihateyou16 | isVerified = False | Country = CA | Sub = [Disney Plus Monthly - CA - Roku - 2021, DISNEY_PLUS, Disney Plus Monthly - CA - Roku - 2021, DISNEY_PLUS, Disney Plus Monthly with 7 Day Free Trial, DISNEY_PLUS]
-djgrosser98@gmail.com:Collingwood17 | isVerified = True | Country = AU | Sub = [Disney Plus Monthly - Google - 2021, DISNEY_PLUS, Disney Plus Monthly - AU - Web - 2021, DISNEY_PLUS, Disney Plus Monthly - AUS - Web, DISNEY_PLUS]
+and1275@hotmail.com:Kike1275 | Status = ACTIVE | Plan = [ Disney Plus Non-Recurring - ES - Movistar - Bundle ] | Bundle = False 
+peters_paulette@hotmail.com:Tater4399 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Standalone ] | Bundle = False 
+miguel.palos@gmail.com:Buonarroti007 | Status = ACTIVE | Plan = [ Disney Plus Monthly - MX - Web ] | Next Renew = [2022-07-10, 2022-07-26] | Bundle = True 
+lauralucyfox@gmail.com:Timothyj!1 | Status = ACTIVE | Plan = [ Disney Plus Monthly ] | Next Renew = [2022-07-19] | Bundle = False 
+jaysouthie1@gmail.com:Emmagrace99 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Standalone ] | Bundle = False 
+nathan.m.solt@gmail.com:Hub778986 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Bundle Promo ] | Bundle = True 
+danieljbarker@btinternet.com:Dannyb14 | Status = ACTIVE | Plan = [ Disney Plus Monthly - UK - Web - 2021 ] | Next Renew = [2022-07-10] | Bundle = False 
+aryento@gmail.com:Tata946023 | Status = ACTIVE | Plan = [ Combo+ - CL - MERCADOLIBRE - Monthly - L6 paid ] | Bundle = True 
+andrew-mckay@hotmail.com:Jasmine92 | Status = ACTIVE | Plan = [ Disney Plus Non-Recurring - GB - Sky - Standalone ] | Bundle = False 
+whitejeepgirl@gmail.com:Marajade1 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Standalone ] | Bundle = False 
+kat.temprosa@gmail.com:Psyduck249 | Status = ACTIVE | Plan = [ Disney Plus Monthly - Apple - 2021 ] | Next Renew = [2022-08-05] | Bundle = False 
+cheyenne.kreiss@icloud.com:schimmel2005 | Status = ACTIVE | Plan = [ Disney Plus Monthly - DE - Web - 2021 ] | Next Renew = [2022-07-11] | Bundle = False 
+brian.schuelke@gmail.com:Mossberg500 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US - XBox ] | Next Renew = [2022-07-28] | Bundle = False 
+erinvictoriahall@hotmail.com:Thirteen13 | Status = ACTIVE | Plan = [ Disney Plus Monthly - UK - Web - 2021 ] | Next Renew = [2022-08-07] | Bundle = False 
+lisavan9@yahoo.com:Jaden777 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Bundle Promo ] | Bundle = True 
+brianpmullaney@Gmail.com:R00sevelt1 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Standalone ] | Bundle = False 
+ladymyrna@gmail.com:Genia1124 | Status = ACTIVE | Plan = [ Disney Plus Monthly with 7 Day Free Trial ] | Next Renew = [2022-07-23] | Bundle = False 
+Michelle.campbell0208@gmail.com:Zarazu08 | Status = ACTIVE | Plan = [ Disney Plus Monthly with 7 Day Free Trial ] | Next Renew = [2022-07-12] | Bundle = False 
+kaylaamroyan@yahoo.com:Kayla1291 | Status = ACTIVE | Plan = [ Disney+ Add-on - Hulu Sold ] | Bundle = False 
+ckeverett@gmail.com:Nomar05 | Status = ACTIVE | Plan = [ Disney+ Premier Access - Jungle Cruise - Apple - Tier 30 ] | Bundle = False 
+hickman121496@yahoo.com:Haley1103 | Status = ACTIVE | Plan = [ Disney Plus Monthly ] | Next Renew = [2022-07-26] | Bundle = False 
+danielle.jurick@gmail.com:Copeland1 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US -  Web ] | Next Renew = [2022-08-05] | Bundle = False 
+natashapedersen77@gmail.com:Memphis89 | Status = ACTIVE | Plan = [ Disney Plus Monthly - AU - Web - 2021 ] | Next Renew = [2022-07-15] | Bundle = False 
+robert.perrong@gmail.com:Rastaman1 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Inclusion Promo ] | Bundle = False 
+wialpoii@gmail.com:K1tt3n55 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US - Google - 2021 ] | Next Renew = [2022-08-06] | Bundle = False 
+snipewituzi@gmail.com:Rodgers88 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US - PS4 ] | Next Renew = [2022-07-19] | Bundle = False 
+princesitajocy@gmail.com:Pokemon650 | Status = ACTIVE | Plan = [ Disney Plus Monthly - CL - Web ] | Next Renew = [2022-07-23] | Bundle = False 
+rialch@msn.com:Bryleigh1 | Status = ACTIVE | Plan = [ Disney Plus Yearly - Apple - 2021 ] | Next Renew = [2022-12-17] | Bundle = False 
+danealle.thompson@gmail.com:Kisumu244 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Bundle Promo ] | Bundle = True 
+neubee21@yahoo.com:Cardelle6 | Status = ACTIVE | Plan = [ Disney Plus Yearly ] | Next Renew = [2022-08-13] | Bundle = False 
+conniehenderson101@gmail.com:Chippy77 | Status = ACTIVE | Plan = [ Disney Plus Non-Recurring - GB - O2 - Bundle ] | Bundle = False 
+johnwhyte23@rogers.com:Abff4432000 | Status = ACTIVE | Plan = [ Disney+ Premier Access - Mulan - CA - Apple ] | Next Renew = [2022-11-25] | Bundle = False 
+bshinall2011@gmail.com:Matthew008 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Standalone ] | Bundle = False 
+mpphd@hotmail.com:Bianca678 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ ] | Next Renew = [2022-07-14] | Bundle = True 
+kristi.foster@gmail.com:Rebel4494 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Inclusion Promo ] | Bundle = False 
+cmross2867@yahoo.com:Jennifer06 | Status = ACTIVE | Plan = [ Disney Plus Monthly ] | Next Renew = [2022-07-19] | Bundle = False 
+karlalaughsalot@gmail.com:Alrak7147 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Bundle Promo ] | Bundle = True 
+monikareppe@outlook.com:Kenneth90 | Status = ACTIVE | Plan = [ Disney Plus Yearly - NO - Web ] | Next Renew = [2022-10-08] | Bundle = False 
+avargas1712@yahoo.com:Ptv6012353 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Bundle Promo ] | Bundle = True 
+toddjaylincoln@gmail.com:Anything420 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ ] | Next Renew = [2022-07-20, 2022-12-16] | Bundle = True 
+ediem82170@aol.com:Scarlett1 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ ] | Next Renew = [2022-08-06] | Bundle = True 
+tfrasca@hotmail.com:Joenick1 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US -  Web ] | Next Renew = [2022-07-28] | Bundle = False 
+dmf722@gmail.com:Cabrini3 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US - Web ] | Next Renew = [2022-07-12] | Bundle = False 
+peraltaconnie@gmail.com:Maria90 | Status = ACTIVE | Plan = [ Disney Plus Monthly - MX - Web ] | Next Renew = [2022-07-22] | Bundle = False 
+deladibiscaino@gmail.com:Rambo23 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ ] | Next Renew = [2022-08-03] | Bundle = True 
+macoles917@gmail.com:Loved0807 | Status = ACTIVE | Plan = [ Disney Plus Monthly - Apple - 2021 ] | Next Renew = [2022-07-18] | Bundle = False 
+rexp71@yahoo.com:Pr2181971 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ - Hulu Sold w/ No Ads ] | Bundle = True 
+davidjamesmackey@yahoo.com:Asad0928 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Bundle Promo ] | Bundle = True 
+tyxmel@gmail.com:Mel130387 | Status = ACTIVE | Plan = [ Disney Plus Monthly - Apple - 2021 ] | Next Renew = [2022-07-18] | Bundle = False 
+clara.leclerc@hotmail.com:Pommeverte3 | Status = ACTIVE | Plan = [ Disney Plus Monthly - CA - Web - 2021 ] | Next Renew = [2022-08-07] | Bundle = False 
+castillo.david.daniel@gmail.com:Starwars1120 | Status = ACTIVE | Plan = [ Disney Plus Monthly Pre-Sales - US - Web ] | Next Renew = [2022-07-19] | Bundle = False 
+melissahill641@gmail.com:Mellymoo123 | Status = ACTIVE | Plan = [ Disney Plus Monthly with 7 Day Free Trial ] | Next Renew = [2022-07-17] | Bundle = False 
+claireditusa@gmail.com:Scooter22 | Status = ACTIVE | Plan = [ Disney Plus Monthly with 7 Day Free Trial ] | Next Renew = [2022-07-26] | Bundle = False 
+tothblancsi@gmail.com:Baluka100 | Status = ACTIVE | Plan = [ Disney Plus Monthly - HU - Web ] | Next Renew = [2022-07-26] | Bundle = False 
+alyw96@msn.com:Mikaly12 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Inclusion Promo ] | Bundle = False 
+bplichorowiec@yahoo.com:Nymets06 | Status = ACTIVE | Plan = [ Disney Plus Yearly - US -  Web ] | Next Renew = [2022-11-19] | Bundle = False 
+paulandkimkelsey@gmail.com:Addison1 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Inclusion Promo ] | Bundle = False 
+mally0926@hotmail.com:Michelle1 | Status = ACTIVE | Plan = [ Disney Plus Monthly - Google - 2021 ] | Next Renew = [2022-07-26] | Bundle = False 
+andyf3232@hotmail.com:Airforce1 | Status = ACTIVE | Plan = [ Disney Plus Monthly - UK - Web - 2021 ] | Next Renew = [2022-07-20] | Bundle = False 
+deedevon123@yahoo.com:Scott123 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US - Google - 2021 ] | Next Renew = [2022-07-25] | Bundle = False 
+luckymom409@gmail.com:Babyboy43 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US -  Web ] | Next Renew = [2022-08-08] | Bundle = False 
+nemecek315@live.com:Raider3010 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ ] | Next Renew = [2022-07-09, 2022-07-09] | Bundle = True 
+meghan.maguire74@yahoo.com:Ernie5117 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ - Hulu Sold Live w/ No Ads ] | Bundle = True 
+laneedw65@yahoo.com:Canterfan2 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ - Hulu Sold w/ No Ads ] | Bundle = True 
+jsteenqueen@hotmail.com:Love5683 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Bundle Promo ] | Bundle = True 
+wheelmaster1@yahoo.com:Hemidog88 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ ] | Next Renew = [2022-07-28] | Bundle = True 
+jenniferpearcey@outlook.com:Pillow27 | Status = ACTIVE | Plan = [ Disney Plus Monthly - Apple - 2021 ] | Next Renew = [2022-08-06] | Bundle = False 
+ramblinwreckage@yahoo.com:Dylan809 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Standalone ] | Bundle = False 
+nicolemathews@hotmail.com:Addison10 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Bundle Promo ] | Bundle = True 
+kasey.olson@hotmail.com:Kenley817 | Status = ACTIVE | Plan = [ Disney Plus Monthly with 7 day Free Trial ] | Next Renew = [2022-07-24] | Bundle = False 
+karenandus1965@yahoo.com:Dietcoke1 | Status = ACTIVE | Plan = [ Disney+ Premier Access - Raya - NA/ANZ/EMEA - Google ] | Next Renew = [2022-08-08, 2022-12-03] | Bundle = False 
+susanarom40@gmail.com:Crissara2 | Status = ACTIVE | Plan = [ Disney Plus Non-Recurring - ES - Movistar - Bundle ] | Bundle = False 
+wcnktn@yahoo.com:Crazyme13 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Standalone ] | Bundle = False 
+karen.mcelarney@gmail.com:Kmc011277 | Status = ACTIVE | Plan = [ Disney Plus Monthly - Apple - 2021 ] | Next Renew = [2022-08-04, 2022-08-12] | Bundle = False 
+tonyacurley@yahoo.com:Curleyfry77 | Status = ACTIVE | Plan = [ Disney Plus Monthly ] | Next Renew = [2022-07-30] | Bundle = False 
+cheywking@yahoo.com:Chai1234 | Status = ACTIVE | Plan = [ Disney+ Premier Access - Raya - US - Roku ] | Next Renew = [2022-07-23] | Bundle = False 
+annielexie@ymail.com:Jastia33 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US -  Web ] | Next Renew = [2022-07-28] | Bundle = False 
+tracidill88@gmail.com:Rockets88 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ - Hulu Sold w/ Ads ] | Bundle = True 
+gonnippinfluts@yahoo.com:Smack7668 | Status = ACTIVE | Plan = [ Disney+ Premier Access - Black Widow - NA/ANZ/EMEA - Google ] | Next Renew = [2022-07-10] | Bundle = False 
+agrimes56@aol.com:Dracut255 | Status = ACTIVE | Plan = [ Disney Plus Monthly With 7 Day FT ] | Next Renew = [2022-07-25] | Bundle = False 
+sarahhilliard87@yahoo.com:Iamsocool1 | Status = ACTIVE | Plan = [ Disney Plus Monthly with 7 Day Free Trial ] | Next Renew = [2022-07-20] | Bundle = False 
+Youmog@gmail.com:Rom#1984 | Status = ACTIVE | Plan = [ Disney Plus Monthly ] | Next Renew = [2022-07-24] | Bundle = False 
+krystian.kepa@gmail.com:krystian10 | Status = ACTIVE | Plan = [ Disney Plus Monthly - NL - Web - 2021 ] | Next Renew = [2022-07-19] | Bundle = False 
+stephaniemonaghan2@gmail.com:Pookie97 | Status = ACTIVE | Plan = [ Disney Plus Monthly ] | Next Renew = [2022-07-22] | Bundle = False 
+djeser.rr@gmail.com:chaianne12 | Status = ACTIVE | Plan = [ Combo+ - BR - MERCADOLIBRE - L6 Bundle Upgrade March 2022 ] | Bundle = True 
+jglezescri@gmail.com:sevilla16 | Status = ACTIVE | Plan = [ Disney Plus Monthly - Google - 2021 ] | Next Renew = [2022-07-16] | Bundle = False 
+gatorpaul44@gmail.com:Green4444 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Bundle Promo ] | Bundle = True 
+kirstyedwards87@hotmail.com:Darren1984 | Status = ACTIVE | Plan = [ Disney Plus Monthly - UK - Web - 2021 ] | Next Renew = [2022-08-06] | Bundle = False 
+eltondyenyson@gmail.com:familia63 | Status = ACTIVE | Plan = [ Disney Plus Monthly ] | Next Renew = [2022-07-14, 2022-07-11] | Bundle = False 
+Carolineamp77@gmail.com:deftones337399 | Status = ACTIVE | Plan = [ Disney Plus - US - Verizon - Bundle Promo ] | Bundle = True 
+louishammond2@gmail.com:newroad15 | Status = ACTIVE | Plan = [ Disney Plus Monthly - UK - Web - 2021 ] | Next Renew = [2022-07-22] | Bundle = False 
+arshearin1@gmail.com:awesome25117 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US -  Web ] | Next Renew = [2022-07-23] | Bundle = False 
+malikshock52@yahoo.com:Leak1445 | Status = ACTIVE | Plan = [ Disney Plus Monthly - US -  Web ] | Next Renew = [2022-07-23] | Bundle = False 
+zainsajid16@hotmail.com:superstar6 | Status = ACTIVE | Plan = [ Disney Plus Monthly With 7 Day FT ] | Next Renew = [2022-07-27] | Bundle = False 
+tbook19@gmail.com:robert14 | Status = ACTIVE | Plan = [ Disney Plus Monthly Pre-Sales - US - Web ] | Next Renew = [2022-08-01, 2022-07-19] | Bundle = False 
+transformiceefe123@outlook.com:tasak123 | Status = ACTIVE | Plan = [ Disney Plus Monthly - Apple - 2021 ] | Next Renew = [2022-07-18] | Bundle = False 
+moondylan377@gmail.com:Story190 | Status = ACTIVE | Plan = [ Disney+, Hulu, and ESPN+ ] | Next Renew = [2022-07-18] | Bundle = True 
